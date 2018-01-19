@@ -1,0 +1,20 @@
+{
+  "catalogue": {
+    "name": "French / Italian / Polish",
+    "id": "d17f-ecbd-f0d7-bc1f",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "66a2-155b-df88-f27f",
+    "gameSystemRevision": 2,
+    "revision": 3,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "rules": [
+      {
+        "name": "Pas De Charge",
+        "id": "cd54-4fbd-931e-4c2d",
+        "description": "A French / Italian / Polish Character can give up one of their Field Craft dice in the Recovery Phase to make a four-inch move. This cannot be used to enter combat.",
+        "hidden": false
+      }
+    ]
+  }
+}

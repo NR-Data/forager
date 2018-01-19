@@ -1,0 +1,20 @@
+{
+  "catalogue": {
+    "name": "British",
+    "id": "9967-ca43-8b61-ff81",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "66a2-155b-df88-f27f",
+    "gameSystemRevision": 1,
+    "revision": 3,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "rules": [
+      {
+        "name": "Steady",
+        "id": "73b9-ae3e-69d7-151e",
+        "description": "Each turn, one British Character in a command can reroll a failed to hit Combat D10 when shooting if they did not move during their activation. This is in addition to the normal rule on not moving outlined on page 9 in the shooting modifiers section.",
+        "hidden": false
+      }
+    ]
+  }
+}

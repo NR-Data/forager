@@ -1,0 +1,20 @@
+{
+  "catalogue": {
+    "name": "Russian",
+    "id": "c4cc-f33d-a1b7-193b",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "66a2-155b-df88-f27f",
+    "gameSystemRevision": 2,
+    "revision": 3,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "rules": [
+      {
+        "name": "Keep Up The Scare With the Bayonet",
+        "id": "82cb-ab4b-d434-b2b4",
+        "description": "Russian Characters can reroll a failed to hit Combat D10 when fighting hand to hand. Russian Characters on foot only move six inches per activation.",
+        "hidden": false
+      }
+    ]
+  }
+}

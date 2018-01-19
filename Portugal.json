@@ -1,0 +1,20 @@
+{
+  "catalogue": {
+    "name": "Portugal",
+    "id": "4fe5-e67a-4f48-5d20",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "66a2-155b-df88-f27f",
+    "gameSystemRevision": 2,
+    "revision": 4,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "rules": [
+      {
+        "name": "Old Fellow Campaigners",
+        "id": "8e76-bd3a-d1df-aea5",
+        "description": "One Portuguese Character in a command can reroll a failed to hit Combat D10 when shooting if they did not move during their activation. \n\nThis is in addition to the normal rule outlined on page 9 in the shooting modifiers section.",
+        "hidden": false
+      }
+    ]
+  }
+}

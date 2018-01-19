@@ -1,0 +1,20 @@
+{
+  "catalogue": {
+    "name": "Spain Guerrilla",
+    "id": "3ccb-b553-410b-f348",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "66a2-155b-df88-f27f",
+    "gameSystemRevision": 2,
+    "revision": 3,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "rules": [
+      {
+        "name": "Guerrilla",
+        "id": "cc3b-5756-bdcb-3b26",
+        "description": "When fighting any French Character each Spanish Guerrilla character gains + 1 Skill and + 1 D10 Combat dice in the Combat phase.",
+        "hidden": false
+      }
+    ]
+  }
+}

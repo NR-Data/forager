@@ -1,0 +1,20 @@
+{
+  "catalogue": {
+    "name": "United States Regular",
+    "id": "391b-977a-36ac-fd7e",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "66a2-155b-df88-f27f",
+    "gameSystemRevision": 2,
+    "revision": 3,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "rules": [
+      {
+        "name": "In God is our Trust",
+        "id": "b6b4-9641-d9c0-f22f",
+        "description": "A US character can ignore the first wounding hit on a seven or more.",
+        "hidden": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "catalogue": {
+    "name": "Spain / Ottoman Regular",
+    "id": "893b-59fd-02ea-843d",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "66a2-155b-df88-f27f",
+    "gameSystemRevision": 2,
+    "revision": 3,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "rules": [
+      {
+        "name": "Muerte",
+        "id": "6b42-f917-b396-9c98",
+        "description": "Roll a D10 for each Character on a 6+ they gain + 1 Skill for the coming battle. If the character fails the roll they are at -1 skill. Spanish Characters on foot only move six inches per activation.",
+        "hidden": false
+      }
+    ]
+  }
+}

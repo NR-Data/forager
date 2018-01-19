@@ -1,0 +1,20 @@
+{
+  "catalogue": {
+    "name": "Austria",
+    "id": "7923-0e9a-4510-71bd",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "66a2-155b-df88-f27f",
+    "gameSystemRevision": 2,
+    "revision": 3,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "rules": [
+      {
+        "name": "Flinterkartasche",
+        "id": "a7bf-4f33-73c5-fc13",
+        "description": "Austrian Characters can reroll a failed to hit Combat D10 when they first shoot. This is in addition to the normal rule outlined on page 11 in the shooting modifiers section. Austrian Characters on foot only move six inches per activation.",
+        "hidden": false
+      }
+    ]
+  }
+}
